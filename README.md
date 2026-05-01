@@ -1,6 +1,6 @@
-# E-Learning App
+# Website E-Learning
 
-Aplikasi e-learning berbasis CodeIgniter 4 dan Supabase. Sistem ini menyediakan dashboard terpisah untuk admin, guru, dan siswa, lengkap dengan manajemen kelas, mata pelajaran, materi, tugas, absensi, pengumuman, diskusi kelas, dan chat.
+Aplikasi web e-learning berbasis CodeIgniter 4 dan Supabase. Sistem ini menyediakan dashboard terpisah untuk admin, guru, dan siswa, lengkap dengan manajemen kelas, mata pelajaran, materi, tugas, absensi, pengumuman, diskusi kelas, dan chat.
 
 ## Fitur
 
